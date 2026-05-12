@@ -1,7 +1,7 @@
 {
   "vedic_api_key": "e77e034e-1708-518f-8d33-f463a7b0fc96",
   "api_base_url": "https://api.vedicastroapi.com/v3-json",
-  "backup_key_1": "eebd3a55-77c3-5411-b779-f09de1376292",
-  "backup_key_2": "eebd3a55-77c3-5411-b779-f09de1376292",
+  "backup_key_1": "e77e034e-1708-518f-8d33-f463a7b0fc96",
+  "backup_key_2": "e77e034e-1708-518f-8d33-f463a7b0fc96",
   "last_updated": "2026-04-07"
 }
